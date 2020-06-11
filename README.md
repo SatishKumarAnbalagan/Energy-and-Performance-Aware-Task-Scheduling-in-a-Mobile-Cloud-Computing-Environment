@@ -4,7 +4,7 @@ The high scientific applications which contain thousands of tasks are usually ex
 
 The Linear time recursive algorithm represented in the research paper is implemented. The algorithim schedules task among the local cores or between the local cores and the cloud with optimization for minimal-delay and energy consumption by the mobile device.
 
-The report attached displays the output we received and a clear explanation over how the results need to be interpretted. 
+The report attached displays the output we received and a clear explanation over how the results need to be interpretted.
 
 # Research paper & its report
 
