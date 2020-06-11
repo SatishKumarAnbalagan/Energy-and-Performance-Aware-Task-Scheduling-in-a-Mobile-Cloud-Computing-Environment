@@ -6,5 +6,4 @@ The Linear time recursive algorithm represented in the research paper is impleme
 
 The report attached displays the output we received and a clear explanation over how the results need to be interpretted. 
 
-# Research paper & report - Energy and Performance-Aware Task Scheduling in a Mobile Cloud Computing Environment
-
+# Research paper & its report
